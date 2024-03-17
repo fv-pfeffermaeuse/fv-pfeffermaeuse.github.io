@@ -2,7 +2,6 @@ baseURL = 'https://fv-pfeffermaeuse.github.io/'
 languageCode = 'de-DE'
 title = 'Förderverein Kneipp-Kita Pfeffermäuse e.V.'
 theme = 'blowfish'
-defaultContentLanguage = "de"
 
 enableRobotsTXT = true
 paginate = 100
@@ -19,7 +18,7 @@ summaryLength = 30
   priority = 0.5
 
 [params]
-  colorScheme = "forest" 
+  colorScheme = "slate" 
   defaultAppearance = "light"
   autoSwitchAppearance = "false"
   logo = "img/logo-small.jpg"
@@ -27,11 +26,33 @@ summaryLength = 30
 
 [params.homepage]
   layout = "hero"
-  showRecent = "true"
-  cardView = "true"
-  cardViewScreenWidth = "false"
+  showRecent = true
+  cardView = true
+  cardViewScreenWidth = false
+  homepageImage = "img/garten_pfeffermaeuse.jpg"
 
 [[menus.main]]
   name = "Über uns"
   pageRef = "about"
+  weight = 5  
+[[menus.main]]
+  name = "Mitgliedschaft"
+  pageRef = "membership"
   weight = 10  
+[[menus.main]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 15  
+
+[params.article]
+  showHero = true
+  showDate = true
+  showDateUpdated = false
+  showHeadingAnchors = false
+  showPagination = false
+  showReadingTime = false
+  showTableOfContents = false
+  showTaxonomies = false 
+  showWordCount = false
+  showSummary = false
+  sharingLinks = [ "whatsapp", "reddit", "facebook", "email"]

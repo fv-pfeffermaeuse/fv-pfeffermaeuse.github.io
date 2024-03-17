@@ -16,8 +16,6 @@ sharingLinks : false
 
 ---
 
-![](about_us.jpg)
-
  Der Förderverein Kneipp-Kita Pfeffermäuse in Berlin ist ein anerkannt gemeinnütziger Verein und setzt sich aus ehrenamtlichen Helfern zusammen. Wir haben vor allem die finanzielle und ideelle Unterstützung der Kneipp-Kita Pfeffermäuse im Fokus und verwirklichen tolle neue Projekte für die Kinder. Seit seiner Gründung am 11.11.2002 konnte der Förderverein bereits viel zum Kneipp-Konzept und Kita-Alltag beitragen. Beispielsweise wurden durch den Förderverein...
 
 - eine Sauna und eine Dusche beschafft

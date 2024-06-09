@@ -45,5 +45,5 @@ Grüne Trift 138
 12557 Berlin-Köpenick  
 Deutschland
 
-Vorsitzender Robert Waldhoff  
+Vorsitzender Christin Meier  
 Vorstand.FVpfeffermaeuse@outlook.de 

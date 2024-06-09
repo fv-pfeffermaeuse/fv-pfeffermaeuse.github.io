@@ -1,4 +1,4 @@
-baseURL = 'https://fv-pfeffermaeuse.github.io/'
+baseURL = 'https://fv-pfeffermaeuse.de/'
 languageCode = 'de-DE'
 title = 'Förderverein Kneipp-Kita Pfeffermäuse e.V.'
 theme = 'blowfish'
@@ -23,6 +23,7 @@ summaryLength = 30
   autoSwitchAppearance = "false"
   logo = "img/logo-small.jpg"
   description = "Der ehrenamtliche Förderverein Pfeffermäuse unterstützt die Kneipp-Kita Pfeffermäuse und verwirklicht tolle neue Projekte für die Kinder!"
+  enableSearch = false
 
 [params.homepage]
   layout = "hero"
@@ -30,6 +31,9 @@ summaryLength = 30
   cardView = true
   cardViewScreenWidth = false
   homepageImage = "img/garten_pfeffermaeuse.jpg"
+
+[params.footer]
+  showAppearanceSwitcher = false
 
 [[menus.main]]
   name = "Über uns"

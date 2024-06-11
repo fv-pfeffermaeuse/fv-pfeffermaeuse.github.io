@@ -18,7 +18,7 @@ aus und schickt ihn an [Mitgliederverwaltung.FVpfeffermaeuse@outlook.de](mailto:
     <br><label for="zip">Postleitzahl, Ort*</label>
         <input type="text" id="zip" name="zip" placeholder="PLZ, Ort" required /> 
     <br><label for="phone">Telefonnummer</label>
-        <input type="text" id="phone" name="phone" placeholder="Telefon" required />  
+        <input type="text" id="phone" name="phone" placeholder="Telefon" />  
     <br><label for="email">Email*</label>
         <input type="email" id="email" name="email" placeholder="Email" required />
     <br><label for="beitrag">Mitgliedbeitrag*</label>

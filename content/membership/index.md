@@ -12,8 +12,13 @@ showWordCount : false
 showSummary : false
 ---
 
-Die Mitgliedschaft im Förderverein ist der direkteste Weg um uns zu unterstützen.
-Um Mitglied zu werden, füllt einfach das folgende Formular aus: 
+Ob ihr uns organisatorisch, kreativ oder finanziell unter die Arme greift - jeder kleine Beitrag zählt!
+
+Jeder Euro kommte ohne Abzüge direkt der Verschönerung der Kita und des Alltags unserer Kleinen zugute. 
+
+Wir freuen uns über jede Mithilfe, ob kurz oder lang.
+
+Werdet schnell und einfach Mitglied, indem ihr diesen Antrag ausfüllt und abschickt: 
 
 {{< rawhtml >}}
 <style>
@@ -70,8 +75,8 @@ input[type=submit]:hover {
         <input type="text" id="phone" name="Telefonnummer" placeholder="Telefon" />  
     <br><label for="email">Email*</label>
         <input type="email" id="email" name="Email" placeholder="Email" required />
-    <br><label for="beitrag">Jährlicher Mitgliedsbeitrag* <i>(frei wählbar, mindestens 12€)</i></label>
-        <input type="number" id="beitrag" name="Beitrag" min="12" value="20">   
+    <br><label for="beitrag">Jährlicher Mitgliedsbeitrag* <i>(frei wählbar)</i></label>
+        <input type="number" id="beitrag" name="Beitrag" value="20">   
     <br><input type="submit" value="Abschicken" />
 </form>
 </div>

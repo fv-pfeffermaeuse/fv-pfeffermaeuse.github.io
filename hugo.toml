@@ -50,7 +50,7 @@ summaryLength = 30
 
 [params.article]
   showHero = true
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showHeadingAnchors = false
   showPagination = false

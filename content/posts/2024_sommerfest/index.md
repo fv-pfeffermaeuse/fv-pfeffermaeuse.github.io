@@ -1,7 +1,7 @@
 ---
-title: "Sommerfest 2024"
+title: "Sommerfest 5. Juli 2024"
 categories: ["Post","Blog","Sommerfest"]
-date: 2024-07-05T15:00:00+01:00
+date: 2024-06-05T15:00:00+01:00
 draft: false
 ---
 

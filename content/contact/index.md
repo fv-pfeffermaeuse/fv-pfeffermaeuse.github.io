@@ -73,4 +73,4 @@ input[type=submit]:hover {
 </div>
 {{< /rawhtml >}}
 
-Alternativ könnt ihr eine Email an *[Vorstand.FVpfeffermaeuse@outlook.de](mailto:Vorstand.FVpfeffermaeuse@outlook.de)* mit den oben aufgelisteten Infos zu eurer Person schicken.
+Alternativ könnt ihr eine Email an *[Vorstand.FVpfeffermaeuse@outlook.de](mailto:Vorstand.FVpfeffermaeuse@outlook.de)* mit euren Anmerkungen und einer Kontaktmöglichkeit schicken.

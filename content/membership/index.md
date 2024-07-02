@@ -76,10 +76,12 @@ input[type=submit]:hover {
     <br><label for="email">Email*</label>
         <input type="email" id="email" name="Email" placeholder="Email" required />
     <br><label for="beitrag">Jährlicher Mitgliedsbeitrag* <i>(frei wählbar)</i></label>
-        <input type="number" id="beitrag" name="Beitrag" value="20">   
+        <input type="number" id="beitrag" name="Beitrag" value="20" required />
+    <br><label for="hilfe">Wie könnt ihr uns speziell unterstützen? <i>(Fähigkeiten, Kontakte, ...)</i></label>
+        <input type="text" id="hilfe" name="Hilfe" placeholder="Telefon" />
     <br><input type="submit" value="Abschicken" />
 </form>
 </div>
 {{< /rawhtml >}}
 
-Alternativ könnt ihr den *[Mitgliedsantrag](20220405_Mitgliedsantrag.pdf)* herunterladen, ausfüllen und an *[Mitgliederverwaltung.FVpfeffermaeuse@outlook.de](mailto:Mitgliederverwaltung.FVpfeffermaeuse@outlook.de)* schicken.
+Alternativ könnt ihr eine Email an *[Mitgliederverwaltung.FVpfeffermaeuse@outlook.de](mailto:Mitgliederverwaltung.FVpfeffermaeuse@outlook.de)* mit den oben aufgelisteten Infos zu eurer Person schicken.

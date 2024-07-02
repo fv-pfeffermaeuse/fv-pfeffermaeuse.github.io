@@ -45,5 +45,14 @@ Grüne Trift 138
 12557 Berlin-Köpenick  
 Deutschland
 
-Vorsitzender Christin Meier  
+Vorsitzende Christin Meier  
 Vorstand.FVpfeffermaeuse@outlook.de 
+
+Stellvertretende Vorsitzende Caroline Fetzer  
+stellvVorstand.FVpfeffermaeuse@outlook.de
+
+Mitgliederverwaltung Saskia Schmidt  
+Mitgliederverwaltung.FVpfeffermaeuse@outlook.de
+
+Vereinskasse Franziska Krause 
+Kasse.FVpfeffermaeuse@outlook.de

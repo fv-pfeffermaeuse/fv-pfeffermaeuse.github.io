@@ -78,7 +78,7 @@ input[type=submit]:hover {
     <br><label for="beitrag">Jährlicher Mitgliedsbeitrag* <i>(frei wählbar)</i></label>
         <input type="number" id="beitrag" name="Beitrag" value="20" required />
     <br><label for="hilfe">Wie könnt ihr uns speziell unterstützen? <i>(Fähigkeiten, Kontakte, ...)</i></label>
-        <input type="text" id="hilfe" name="Hilfe" placeholder="Telefon" />
+        <input type="text" id="hilfe" name="Hilfe" placeholder="Hilfe" />
     <br><input type="submit" value="Abschicken" />
 </form>
 </div>

@@ -67,7 +67,7 @@ input[type=submit]:hover {
     <br><label for="email">Email</label>
         <input type="email" id="email" name="Email" placeholder="Email" />
     <br><label for="kommentar">Hier dein Text an uns: </label>
-        <input type="textarea" id="kommentar" name="Kommentar" placeholder="Dein Text" required />
+        <input type="text" id="kommentar" name="Kommentar" placeholder="Dein Text" required />
     <br><input type="submit" value="Abschicken" />
 </form>
 </div>

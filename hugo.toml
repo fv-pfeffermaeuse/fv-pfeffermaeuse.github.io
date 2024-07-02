@@ -44,9 +44,13 @@ summaryLength = 30
   pageRef = "membership"
   weight = 10  
 [[menus.main]]
+  name = "Kontakt"
+  pageRef = "contact"
+  weight = 15  
+[[menus.main]]
   name = "Impressum"
   pageRef = "impressum"
-  weight = 15  
+  weight = 20 
 
 [params.article]
   showHero = true

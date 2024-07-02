@@ -62,12 +62,12 @@ input[type=submit]:hover {
     <!-- Actual form -->
     <label for="name">Name <i>(du kannst auch anonym schreiben)</i></label>
         <input type="text" id="name" name="Name" placeholder="Name" />
-    <br><label for="kind">Kind + Gruppe</label>
+    <br><label for="kind">Gruppe <i>(optional)</i></label>
         <input type="text" id="kind" name="Gruppe" placeholder="Gruppe" />
-    <br><label for="email">Email*</label>
-        <input type="email" id="email" name="Email" placeholder="Email" required />
+    <br><label for="email">Email</label>
+        <input type="email" id="email" name="Email" placeholder="Email" />
     <br><label for="kommentar">Hier dein Text an uns: </label>
-        <input type="text" id="kommentar" name="Kommentar" placeholder="Dein Text" />
+        <input type="text" id="kommentar" name="Kommentar" placeholder="Dein Text" required />
     <br><input type="submit" value="Abschicken" />
 </form>
 </div>

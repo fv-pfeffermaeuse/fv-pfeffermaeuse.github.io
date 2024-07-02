@@ -1,7 +1,7 @@
 ---
 title: "Herbst-Kuchenbasar 2024"
 categories: ["Post","Blog",]
-date: 2024-09-20T10:00:00+01:00
+date: 2024-07-02T21:00:00+01:00
 draft: false
 ---
 

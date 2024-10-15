@@ -73,7 +73,7 @@ input[type=submit]:hover {
         <input type="text" id="name" name="Name" placeholder="Name" />
     <br><label for="kind">Gruppe <i>(optional)</i></label>
         <input type="text" id="kind" name="Gruppe" placeholder="Gruppe" />
-    <br><label for="email">Email</label>
+    <br><label for="email">Email <i>(optional)</i></label>
         <input type="email" id="email" name="Email" placeholder="Email" />
     <br><label for="kommentar">Hier dein Text an uns: </label>
         <textarea id="kommentar" name="Kommentar" required ></textarea>

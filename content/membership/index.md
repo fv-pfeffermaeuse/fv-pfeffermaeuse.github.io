@@ -14,7 +14,7 @@ showSummary : false
 
 Ob ihr uns organisatorisch, kreativ oder finanziell unter die Arme greift - jeder kleine Beitrag zählt!
 
-Jeder Euro kommte ohne Abzüge direkt der Verschönerung der Kita und des Alltags unserer Kleinen zugute. 
+Jeder Euro kommt ohne Abzüge direkt der Verschönerung der Kita und des Alltags unserer Kleinen zugute. 
 
 Wir freuen uns über jede Mithilfe, ob kurz oder lang.
 

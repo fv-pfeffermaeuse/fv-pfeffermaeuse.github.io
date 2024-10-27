@@ -1,6 +1,6 @@
 ---
 title: "Nächstes Vereinstreffen: 12.12.2024"
-date: 2024-09-10T15:00:00+01:00
+date: 2024-10-27T15:00:00+01:00
 categories: ["Post","Blog",]
 draft: false
 ---

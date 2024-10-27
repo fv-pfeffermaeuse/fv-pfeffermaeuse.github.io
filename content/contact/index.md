@@ -53,7 +53,7 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-.mitgliedsantrag {
+.kontakt {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;

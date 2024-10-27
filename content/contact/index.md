@@ -60,7 +60,8 @@ input[type=submit]:hover {
 }
 </style>
 <div class="kontakt">
-<form action="https://submit-form.com/ZmqqPz8Jo">
+<form method="POST" action="https://submit-form.com/ZmqqPz8Jo">
+    <div class="g-recaptcha" data-sitekey="6LdRo20qAAAAAJatVGvabTAisBZMKewOQ2I6xQAd"></div>
     <!-- We don't want users to end up an a different page, see https://documentation.formspark.io/customization/redirection.html#specifying-a-custom-redirect-url -->
     <input
         type="hidden"

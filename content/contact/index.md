@@ -60,7 +60,7 @@ input[type=submit]:hover {
 }
 </style>
 <div class="kontakt">
-<form action="https://submit-form.com/ZmqqPz9Jo">
+<form action="https://submit-form.com/ZmqqPz8Jo">
     <!-- We don't want users to end up an a different page, see https://documentation.formspark.io/customization/redirection.html#specifying-a-custom-redirect-url -->
     <input
         type="hidden"

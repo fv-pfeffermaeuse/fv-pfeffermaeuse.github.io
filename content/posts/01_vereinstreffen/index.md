@@ -8,6 +8,6 @@ draft: false
 Das nächste Vereinstreffen findet am 26. März 2025 um 18:00 Uhr in der Kita Grüne Trift statt.
 
 Protokolle der bisherigen Treffen:
-- [Protokoll 2025-01-15](protokolle/20250115_Protokoll.pdf)
-- [Protokoll 2024-05-16](protokolle/20240516_Protokoll_extern.pdf)
-- [Protokoll 2023-11-15](protokolle/20231115_Protokoll_intern.pdf)
+- [Protokoll 2025-01-15 (PDF)](protokolle/20250115_Protokoll.pdf)
+- [Protokoll 2024-05-16 (PDF)](protokolle/20240516_Protokoll_extern.pdf)
+- [Protokoll 2023-11-15 (PDF)](protokolle/20231115_Protokoll_intern.pdf)

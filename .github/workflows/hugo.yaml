@@ -6,9 +6,6 @@ on:
   push:
     branches:
       - main
-  schedule:
-    - cron: '27 7 * * *' # Runs at 07:27 UTC every day
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

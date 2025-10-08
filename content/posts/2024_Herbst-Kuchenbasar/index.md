@@ -1,7 +1,7 @@
 ---
 title: "Kuchenbasar: 15.10.2025 - Süßes für den guten Zweck!"
 categories: ["Post","Blog",]
-date: 2024-10-15T21:00:00+01:00
+date: 2024-09-15T21:00:00+01:00
 draft: false
 ---
 

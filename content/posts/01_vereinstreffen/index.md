@@ -1,6 +1,6 @@
 ---
 title: "Nächstes Vereinstreffen: 04.11.2025"
-date: 2025-11-04T17:30:00+01:00
+date: 2025-09-04T17:30:00+01:00
 categories: ["Post","Blog",]
 draft: false
 ---

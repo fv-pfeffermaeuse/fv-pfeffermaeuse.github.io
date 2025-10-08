@@ -1,8 +1,8 @@
 ---
-title: "Martinsfest 08.11.2024"
+title: "Martinsfest 14.11.2024"
 categories: ["Post","Blog",]
 date: 2024-10-25T21:00:00+01:00
 draft: false
 ---
 
-Am 08.11.2024 fand ab 16:30 Uhr das järhliche Martins-Fest statt.
+Am 14.11.2025 findet ab 15:00 Uhr das jährliche Martins-Fest statt.

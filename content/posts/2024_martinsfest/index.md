@@ -1,5 +1,5 @@
 ---
-title: "Martinsfest 14.11.2024"
+title: "Martinsfest 14.11.2025"
 categories: ["Post","Blog",]
 date: 2025-10-07T21:00:00+01:00
 draft: false

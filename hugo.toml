@@ -28,6 +28,7 @@ summaryLength = 30
 [params.homepage]
   layout = "hero"
   showRecent = true
+  showRecentItems = 10
   cardView = true
   cardViewScreenWidth = false
   homepageImage = "img/garten_pfeffermaeuse.jpg"

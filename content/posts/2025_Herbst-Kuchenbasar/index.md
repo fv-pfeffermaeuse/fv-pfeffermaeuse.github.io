@@ -2,7 +2,7 @@
 title: "Kuchenbasar: 15.10.2025 - Süßes für den guten Zweck!"
 categories: ["Post","Blog",]
 date: 2025-10-01T21:00:00+01:00
-draft: false
+draft: true
 ---
 
 Am Mittwoch, den 15. Oktober 2025, duftet es in unserer Kita wieder herrlich nach frisch gebackenem Kuchen!

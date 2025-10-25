@@ -1,6 +1,7 @@
 ---
 title: "Vereinstreffen vom 18.09.2025"
 date: 2025-09-18T20:00:00+01:00
+calendar: 2025-09-18
 categories: ["Vereinstreffen"]
 draft: false
 ---

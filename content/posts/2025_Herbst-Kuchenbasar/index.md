@@ -1,11 +1,11 @@
 ---
-title: "Kuchenbasar: 15.10.2025 - Süßes für den guten Zweck!"
-categories: ["Post","Blog",]
-date: 2025-10-01T21:00:00+01:00
-draft: true
+title: "Kuchenbasar: 03.12.2025 - Süßes für den guten Zweck!"
+categories: ["Kuchenbasar"]
+date: 2025-10-25T05:00:00+01:00
+draft: false
 ---
 
-Am Mittwoch, den 15. Oktober 2025, duftet es in unserer Kita wieder herrlich nach frisch gebackenem Kuchen!
+Am Mittwoch, den 03. Dezember 2025, duftet es in unserer Kita wieder herrlich nach frisch gebackenem Kuchen!
 Beim traditionellen Kuchenbasar beteiligen sich unsere engagierten Eltern mit viel Liebe und Tatkraft und zaubern ein buntes Buffet aus leckeren Kuchen, Muffins und süßen Kleinigkeiten. 💛
 
 Alle Eltern sind herzlich eingeladen, an diesem Tag vorbeizuschauen, zu probieren und sich ein Stück Genuss mit nach Hause zu nehmen.

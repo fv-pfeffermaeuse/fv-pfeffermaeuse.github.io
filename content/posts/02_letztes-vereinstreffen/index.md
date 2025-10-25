@@ -1,7 +1,7 @@
 ---
 title: "Letztes Vereinstreffen: 18.09.2025"
 date: 2025-09-18T20:00:00+01:00
-categories: ["Post","Blog",]
+categories: ["Vereinstreffen"]
 draft: false
 ---
 

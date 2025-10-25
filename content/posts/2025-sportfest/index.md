@@ -1,6 +1,6 @@
 ---
 title: "Sportfest 18. Juli 2025"
-categories: ["Fest","Sportfest"]
+categories: ["Fest"]
 date: 2025-06-06T18:00:00+01:00
 draft: false
 ---

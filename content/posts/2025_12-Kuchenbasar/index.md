@@ -1,5 +1,5 @@
 ---
-title: "Kuchenbasar: 03.12.2025 - Süßes für den guten Zweck!"
+title: "Kuchenbasar am 03.12.2025 - Süßes für den guten Zweck!"
 categories: ["Veranstaltung"]
 date: 2025-10-25T05:00:00+01:00
 draft: false

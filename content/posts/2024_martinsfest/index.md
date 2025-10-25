@@ -1,6 +1,6 @@
 ---
-title: "Martinsfest 08.11.2024"
-categories: ["Martinfest","Fest"]
+title: "Martinsfest am 08.11.2024"
+categories: ["Fest"]
 date: 2024-11-08T18:00:00+01:00
 draft: false
 ---

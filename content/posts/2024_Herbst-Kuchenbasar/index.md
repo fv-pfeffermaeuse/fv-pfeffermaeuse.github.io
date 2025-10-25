@@ -1,6 +1,6 @@
 ---
 title: "Kuchenbasar: 20.09.2024"
-categories: ["Kuchenbasar"]
+categories: ["Veranstaltung"]
 date: 2024-10-15T21:00:00+01:00
 draft: false
 ---

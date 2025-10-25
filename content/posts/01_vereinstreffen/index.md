@@ -1,6 +1,7 @@
 ---
-title: "Nächstes Vereinstreffen: 04.11.2025"
+title: "Nächstes Vereinstreffen am 04.11.2025"
 date: 2025-10-25T01:30:00+01:00
+calendar: 2025-11-04
 categories: ["Vereinstreffen",]
 draft: false
 ---

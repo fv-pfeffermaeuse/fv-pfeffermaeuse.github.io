@@ -1,0 +1,14 @@
+<h2 class="mt-8 text-2xl font-extrabold mb-10">Kommende Termine</h2>
+
+{{ $pages := where .Site.RegularPages "Params.calendar" "!=" nil }}
+{{ $futurePagesSlice := slice }}
+{{ range $pages }}
+    {{ $calendarDate := .Params.calendar | time }}
+    {{ if $calendarDate.After now }}
+        {{ $futurePagesSlice = $futurePagesSlice | append . }}
+    {{ end }}
+{{ end }}
+{{ range sort $futurePagesSlice "Params.calendar" }}
+    {{ $calendarDate := .Params.calendar | time }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}

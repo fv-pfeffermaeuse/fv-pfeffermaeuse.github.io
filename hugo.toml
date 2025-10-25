@@ -26,7 +26,7 @@ summaryLength = 30
   enableSearch = false
 
 [params.homepage]
-  layout = "hero"
+  layout = "custom"
   showRecent = true
   showRecentItems = 10
   cardView = true

@@ -10,5 +10,5 @@
 {{ end }}
 {{ range sort $futurePagesSlice "Params.calendar" }}
     {{ $calendarDate := .Params.calendar | time }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .Params.calendar }} {{ .Params.short }}</a></li>
 {{ end }}

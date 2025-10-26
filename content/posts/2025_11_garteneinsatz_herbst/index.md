@@ -1,5 +1,6 @@
 ---
 title: "🍂 Gemeinsam anpacken – Garteneinsatz am 08.11.2025"
+short: "Garteneinsatz"
 categories: ["Garteneinsatz"]
 date: 2025-10-25T03:00:00+01:00
 calendar: 2025-11-08

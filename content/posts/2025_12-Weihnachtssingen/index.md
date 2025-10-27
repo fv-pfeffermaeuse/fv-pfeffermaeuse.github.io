@@ -17,7 +17,9 @@ Es gibt auch kostenlosen Glühwein und Waffeln am Stiel.
 Also: Packt eure Weihnachtsmützen, Schals und Glöckchen ein – und kommt vorbei, um mit uns die Adventszeit fröhlich einzusingen! Egal ob Eltern, Kinder, Großeltern oder Erzieher:innen – jede Stimme zählt!
 
 📅 Wann: Samstag, 06. Dezember 2025
-🕓 Uhrzeit: 15:45 Uhr, um 16:00 Uhr beginnen wir zu singen 
+
+🕓 Uhrzeit: 15:45 Uhr, um 16:00 Uhr beginnen wir zu singen /n
+
 📍 Wo: REWE-Parkplatz, Wendenschloßstraße 354-358
 
 💛 Die gesammelten 500 € kommen wie immer direkt den Kindern der Kita zugute – für neue Projekte, Materialien und kleine Freuden im Alltag.

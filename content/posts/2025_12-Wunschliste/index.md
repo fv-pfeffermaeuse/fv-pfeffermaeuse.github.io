@@ -14,9 +14,9 @@ Wie können wir unsere Kita in Zukunft noch schöner, spannender oder praktische
 
 Eure Rückmeldungen helfen uns, die Arbeit des Fördervereins gezielt dort einzusetzen, wo sie wirklich etwas bewirkt – für die Kinder, für die Teams und für die gesamte Kita-Gemeinschaft.
 
-Natürlich könnt ihr euch unabhängig von der Wunschbox jederzeit an uns wenden:<br>
-➡️ Über das Kontaktformular auf unserer Webseite<br>
-oder<br>
-📧 per E-Mail an *[Vorstand.FVpfeffermaeuse@outlook.de](mailto:Vorstand.FVpfeffermaeuse@outlook.de)*<br>
+<br>Natürlich könnt ihr euch unabhängig von der Wunschbox jederzeit an uns wenden:</br>
+<br>➡️ Über das Kontaktformular auf unserer Webseite</br>
+<br>oder</br>
+<br>📧 per E-Mail an *[Vorstand.FVpfeffermaeuse@outlook.de](mailto:Vorstand.FVpfeffermaeuse@outlook.de)*</br>
 
 Wir freuen uns auf viele kreative, herzliche und hilfreiche Anregungen – gemeinsam machen wir unsere Kita noch ein Stück besser! 💛

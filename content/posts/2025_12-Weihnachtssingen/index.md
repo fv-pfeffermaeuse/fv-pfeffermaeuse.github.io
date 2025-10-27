@@ -2,7 +2,7 @@
 title: "Weihnachtswette 06.12.2025 –  Gemeinsam singen, gemeinsam Gutes tun!"
 short: "Weihnachtswette"
 categories: ["Veranstaltung"]
-date: 2025-10-22T01:00:00+01:00
+date: 2025-11-22T01:00:00+01:00
 calendar: 2025-12-06
 draft: false
 ---

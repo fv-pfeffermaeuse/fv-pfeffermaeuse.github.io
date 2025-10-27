@@ -2,7 +2,7 @@
 title: "Frohe Weihnachten von den Pfeffermäusen!"
 short: "Weihnachtsgruss"
 categories: ["Beitrag"]
-date: 2025-10-13T01:00:00+01:00
+date: 2025-12-13T01:00:00+01:00
 calendar: 2025-12-19
 draft: false
 ---

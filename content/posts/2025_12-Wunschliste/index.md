@@ -2,7 +2,7 @@
 title: "Eure Ideen sind gefragt – die Wunschbox des Fördervereins"
 short: "Wunschliste"
 categories: ["Umfrage"]
-date: 2025-10-08T01:00:00+01:00
+date: 2025-11-08T01:00:00+01:00
 calendar: 2025-11-24
 draft: false
 ---

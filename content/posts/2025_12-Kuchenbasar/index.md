@@ -2,7 +2,7 @@
 title: "Kuchenbasar am 03.12.2025 - Süßes für den guten Zweck!"
 short: "Kuchenbasar"
 categories: ["Veranstaltung"]
-date: 2025-10-25T05:00:00+01:00
+date: 2025-11-12T21:30:00+01:00
 calendar: 2025-12-03
 draft: false
 ---

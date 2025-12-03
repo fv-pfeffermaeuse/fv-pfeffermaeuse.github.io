@@ -2,12 +2,16 @@
 
 {{ $pages := where .Site.RegularPages "Params.calendar" "!=" nil }}
 {{ $futurePagesSlice := slice }}
+
+{{ $today := dateFormat "2006-01-02" now }}
 {{ range $pages }}
     {{ $calendarDate := .Params.calendar | time }}
-    {{ if $calendarDate.After now }}
+    {{ $calendarDay := dateFormat "2006-01-02" $calendarDate }}
+    {{ if or ($calendarDate.After now) (eq $calendarDay $today) }}
         {{ $futurePagesSlice = $futurePagesSlice | append . }}
     {{ end }}
 {{ end }}
+
 {{ range sort $futurePagesSlice "Params.calendar" }}
     {{ $calendarDate := .Params.calendar | time }}
     <li><a href="{{ .RelPermalink }}">{{ .Params.calendar }} {{ .Params.short }}</a></li>

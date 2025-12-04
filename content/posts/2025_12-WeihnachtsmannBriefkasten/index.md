@@ -1,9 +1,9 @@
 ---
 title: "💌 Post an den Weihnachtsmann – ein liebevolles Kita-Ritual im Dezember"
-short: "Weihnachtsmann Briefkasten"
+short: "Abholung Weihnachtsmann Briefkasten"
 categories: ["Beitrag"]
 date: 2025-12-03T09:00:00+01:00
-calendar: 2025-12-03
+calendar: 2025-12-17
 draft: false
 ---
 
@@ -15,3 +15,5 @@ Doch diese Aktion bedeutet noch mehr als Wünsche auf Papier: Die Kinder lernen 
 Das Schreiben (oder Malen) an den Weihnachtsmann ist außerdem ein schönes Ritual, das Sprache, Kreativität und Fantasie fördert – und gleichzeitig den Zauber der Adventszeit lebendig hält.
 
 🎄 Der Förderverein Pfeffermäuse e.V. freut sich, dass dieses kleine, herzliche Projekt jedes Jahr aufs Neue für leuchtende Augen sorgt – bei Klein und Groß.
+
+![](Briefkasten1a.jpeg)![](Briefkasten2a.jpeg)

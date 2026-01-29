@@ -54,5 +54,5 @@ stellvVorstand.FVpfeffermaeuse@outlook.de
 Mitgliederverwaltung Saskia Schmidt  
 Mitgliederverwaltung.FVpfeffermaeuse@outlook.de
 
-Vereinskasse Sandra März 
+Vereinskasse Sandra März  
 Kasse.FVpfeffermaeuse@outlook.de

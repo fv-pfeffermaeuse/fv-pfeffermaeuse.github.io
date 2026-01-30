@@ -11,9 +11,9 @@ Am 25. März 2026, dem Internationalen Tag der Waffel, wird es bei uns besonders
 
 Damit dieser Tag ein voller Erfolg wird, sind wir wieder auf die tatkräftige Unterstützung der Eltern angewiesen. Benötigt werden:
 
-- Waffeleisen
-- Waffelteig - gern für süße und herzhafte Waffeln
-- Hilfe bei der Standbetreuung
+* Waffeleisen
+* Waffelteig - gern für süße und herzhafte Waffeln
+* Hilfe bei der Standbetreuung
 
 Entsprechende Aushänge und Listen zur Eintragung werden rechtzeitig in der Kita bereitgestellt.
 

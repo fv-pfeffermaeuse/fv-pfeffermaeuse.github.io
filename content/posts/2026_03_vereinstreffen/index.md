@@ -1,7 +1,7 @@
 ---
 title: "Nächstes Vereinstreffen am 18.03.2026"
 short: "Vereinstreffen"
-date: 2025-11-12T21:32:00+01:00
+date: 2026-01-11T16:30:00+01:00
 calendar: 2026-03-18
 categories: ["Vereinstreffen"]
 draft: false

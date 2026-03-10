@@ -4,7 +4,7 @@ short: "Waffelbasar"
 categories: ["Veranstaltung"]
 date: 2026-01-12T16:30:00+01:00
 calendar: 2026-03-25
-draft: false
+draft: true
 ---
 
 Am 25. März 2026, dem Internationalen Tag der Waffel, wird es bei uns besonders lecker! Auf der Terrasse der Grünen Trift veranstalten wir am Nachmittag gemeinsam mit der Kita einen Waffelbasar für Groß und Klein. 🧡

@@ -1,7 +1,8 @@
 ---
 title: "☀️ Sommerfest 26. Juni 2026"
+short: "Sommerfest"
 categories: ["Fest"]
-date: 2026-03-10T10:00:00+01:00
+date: 2026-06-10T10:00:00+01:00
 calendar: 2026-06-26
 draft: false
 ---

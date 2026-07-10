@@ -12,9 +12,9 @@ Der Tier-, Freizeit- und Saurierpark Germendorf begeistert mit seiner besonderen
 
 💚 Besonders freuen wir uns als Förderverein darüber, diesen Ausflug für so viele Kinder möglich gemacht zu haben:
 
-Der Förderverein Kneipp-Kita Pfeffermäuse e.V. hat insgesamt 2.642 € beigesteuert und damit den Eigenanteil für die Familien auf nur 4,72 € pro Kind reduziert.
+**Der Förderverein Kneipp-Kita Pfeffermäuse e.V. hat insgesamt 2.642 € beigesteuert und damit den Eigenanteil für die Familien auf nur 4,72 € pro Kind reduziert.
 
-Uns ist es wichtig, dass möglichst alle Kinder – unabhängig von den finanziellen Möglichkeiten der Familien – an solchen gemeinschaftsstärkenden Erlebnissen teilnehmen können. Deshalb sind wir sehr glücklich, diesen besonderen Tag unterstützen zu können. 😊
+Uns ist es wichtig, dass möglichst alle Kinder – unabhängig von den finanziellen Möglichkeiten der Familien – an solchen gemeinschaftsstärkenden Erlebnissen teilnehmen können.** Deshalb sind wir sehr glücklich, diesen besonderen Tag unterstützen zu können. 😊
 
 Solche Ausflüge schaffen Erinnerungen, fördern Gemeinschaft und wecken die Begeisterung für Natur und Tiere. 🦕🦌💚
 

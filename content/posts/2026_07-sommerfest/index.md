@@ -4,7 +4,7 @@ short: "Sommerfest"
 categories: ["Fest"]
 date: 2026-05-22T10:00:00+01:00
 calendar: 2026-06-26
-draft: false
+draft: true
 ---
 
 ☀️ Sommerfest 2026 in der Kneipp-Kita Pfeffermäuse 🐭🎉

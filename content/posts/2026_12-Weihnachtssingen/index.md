@@ -21,9 +21,9 @@ Die Liedtexte verteilen wir kurz vor Beginn vor Ort – natürlich auch für all
 
 Ob Kinder, Familien, Großeltern, Erzieher oder Freunde – wir freuen uns über jede und jeden, der mit uns singt! Zieht euch weihnachtlich an, schnappt euch eure Weihnachtsmützen, Schals oder Rentiergeweihe und helft uns, die Wette zu gewinnen.
 
-📅 Wann: Sonntag, 06. Dezember 2026
-🕓 Treffen: 15:45 Uhr, gemeinsamer Gesang ab 16:00 Uhr
-📍 Wo: REWE-Parkplatz, Wendenschloßstraße 354–358, 12557 Berlin
+📅 Wann: Sonntag, 06. Dezember 2026  
+🕓 Treffen: 15:45 Uhr, gemeinsamer Gesang ab 16:00 Uhr  
+📍 Wo: REWE-Parkplatz, Wendenschloßstraße 354–358, 12557 Berlin  
 
 
 🚌 Gemeinsam für unseren Kita-Ausflug!

@@ -2,7 +2,7 @@
 title: "🎄 REWE-Weihnachtswette am 06.12.2026 – Gemeinsam singen, gemeinsam Gutes tun! 🎶🐭"
 short: "Weihnachtswette"
 categories: ["Veranstaltung"]
-date: 2025-11-17T01:00:00+01:00
+date: 2026-11-17T01:00:00+01:00
 calendar: 2026-12-06
 draft: false
 ---
